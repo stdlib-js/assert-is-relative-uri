@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/assert-is-relative-uri",
-  "version": "0.0.2",
+  "version": "0.0.0",
   "description": "Test whether a value is a relative URI.",
   "license": "Apache-2.0",
   "author": {
