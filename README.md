@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isRelativeURI from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-relative-uri@esm/index.mjs';
+import isRelativeURI from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-relative-uri@v0.1.1-esm/index.mjs';
 ```
 
 #### isRelativeURI( value )
@@ -98,7 +98,7 @@ bool = isRelativeURI( 'https://example.com/' );
 <body>
 <script type="module">
 
-import isRelativeURI from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-relative-uri@esm/index.mjs';
+import isRelativeURI from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-relative-uri@v0.1.1-esm/index.mjs';
 
 var bool = isRelativeURI( './foo.js' );
 // returns true
