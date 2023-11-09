@@ -144,7 +144,6 @@ bool = isRelativeURI( null );
 
 <!-- /.examples -->
 
-
 <!-- Section for describing a command-line interface. -->
 
 * * *
