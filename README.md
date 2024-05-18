@@ -240,6 +240,12 @@ true
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/assert-is-uri`][@stdlib/assert/is-uri]</span><span class="delimiter">: </span><span class="description">test if a value is a URI.</span>
+
 </section>
 
 <!-- /.related -->
@@ -327,6 +333,12 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [difference-url-uri]: https://danielmiessler.com/study/url-uri/
 
 [standard-streams]: https://en.wikipedia.org/wiki/Standard_streams
+
+<!-- <related-links> -->
+
+[@stdlib/assert/is-uri]: https://github.com/stdlib-js/assert-is-uri
+
+<!-- </related-links> -->
 
 </section>
 
